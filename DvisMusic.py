@@ -221,7 +221,7 @@ async def main():
     LOGGER.info("✅ PyTgCalls Started.")
     await asyncio.sleep(1)
     LOGGER.info("✅ Sucessfully Hosted Your Bot !!")
-    LOGGER.info("✅ Now Do Visit: @NOBITA_ALL_BOT !!")
+    LOGGER.info("✅ Now Do Visit: @Feeling_smiley !!")
     await idle()
 
 
@@ -1332,7 +1332,7 @@ async def git_repo_link(client, message):
 │❍ • ɴᴏ ʟᴀɢs + ɴᴏ ᴀᴅs •‍
 │❍ • 24x7 ᴏɴʟɪɴᴇ sᴜᴘᴘᴏʀᴛ •‍
 ├───────────────────⦿‍
-│        [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/ll_SIZUKA_BOT_MAKER_II)
+│        [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/ll_DEVIL_VENOM_ll)
 ╰───────────────────⦿"""
     else:
         caption = f"**➻ Hello, {mention}.**"
@@ -1341,7 +1341,7 @@ async def git_repo_link(client, message):
             [
                 InlineKeyboardButton(
                     text="🌺 𝐓𝐎𝐂𝐇 𝐊𝐑𝐎 𝐁𝐄𝐓𝐀 🦋",
-                    url="https://files.catbox.moe/7rmgyr.mp4",
+                    url="https://graph.org/file/64a86b31b185149e7bb52-cc4c7a29bc94f9f6fc.jpg",
                 )
             ],
             [
