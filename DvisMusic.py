@@ -350,7 +350,7 @@ async def start_message_private(client, message):
 │❍ • ɴᴏ ʟᴀɢs + ɴᴏ ᴀᴅs •‍
 │❍ • 24x7 ᴏɴʟɪɴᴇ sᴜᴘᴘᴏʀᴛ •‍
 ├───────────────────⦿‍
-│           [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/ll_SIZUKA_BOT_MAKER_II)
+│           [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/ll_DEVIL_VENOM_ll)
 ╰───────────────────⦿"""
     buttons = InlineKeyboardMarkup(
         [
@@ -446,7 +446,7 @@ async def back_to_home_menu(client, query):
 │❍ • ɴᴏ ʟᴀɢs + ɴᴏ ᴀᴅs •‍
 │❍ • 24x7 ᴏɴʟɪɴᴇ sᴜᴘᴘᴏʀᴛ •‍
 ├───────────────────⦿‍
-│               [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/ll_SIZUKA_BOT_MAKER_II)
+│               [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/ll_DEVIL_VENOM_ll)
 ╰───────────────────⦿"""
     buttons = InlineKeyboardMarkup(
         [
@@ -754,7 +754,7 @@ async def stream_logger(
 **❍ Cʜᴀᴛ Lɪɴᴋ:** {chat_link}
 **❍ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requested_by}
 
-❍ 𝖩ᴏɪɴ ➛ **[sᴜᴘᴘᴏꝛᴛ](https://t.me/NOBITA_ALL_BOT)**"""
+❍ 𝖩ᴏɪɴ ➛ **[sᴜᴘᴘᴏꝛᴛ](https://t.me/Feeling_smiley)**"""
             else:
                 caption = f"""**✅ 𝐒ᴛᴀʀᴛᴇᴅ 𝐒ᴛʀᴇᴀᴍɪɴɢ 𝐎ɴ 𝐕ᴄ.**
 
@@ -1031,7 +1031,7 @@ async def stream_audio_or_video(client, message):
 **❍ Sᴛʀᴇᴀᴍ Tʏᴘᴇ ➥ ** {stream_type}
 **❍ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥ ** {requested_by}
 
-❍ 𝖩ᴏɪɴ ➛ **[sᴜᴘᴘᴏꝛᴛ](https://t.me/NOBITA_ALL_BOT)**"""
+❍ 𝖩ᴏɪɴ ➛ **[sᴜᴘᴘᴏꝛᴛ](https://t.me/Feeling_smiley)**"""
                 await bot.send_photo(chat_id, thumbnail, caption, reply_markup=buttons)
                 await stream_logger(
                     chat_id, user, title, duration, stream_type, thumbnail, position
